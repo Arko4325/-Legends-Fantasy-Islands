@@ -302,6 +302,7 @@ h1{
 
 .u {
   transition: transform 0.4s ease, filter 0.4s ease;
+  widht:20px;
 }
 
 .u:hover {
